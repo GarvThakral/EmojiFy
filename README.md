@@ -129,3 +129,6 @@ Open source - feel free to build upon this work for research, personal projects,
 ---
 
 *Built with passion for making digital communication more expressive and intuitive.*
+
+## Feel free to check it out
+https://garvthakral-emojify-frontend-b904uc.streamlit.app/
